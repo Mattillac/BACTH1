@@ -27,8 +27,8 @@ r = a*b
 print(r)
 
 #prog 5
-a = int(input("enter num 1: "))
-b = int(input("enter num 2: "))
+a = float(input("enter num 1: "))
+b = float(input("enter num 2: "))
 r = a/b
 print(r)
 
